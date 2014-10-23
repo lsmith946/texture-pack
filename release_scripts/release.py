@@ -28,5 +28,5 @@ for f in files: # add all files to zip
       zfile.write(f, archive_name)
    else:
       sys.exit("No file in path " + f)
-
+zfile.write("../BlockStyle/pack.mcmeta", "pack.mcmeta") # add pack.mcmeta
 zfile.close()  # close zip
