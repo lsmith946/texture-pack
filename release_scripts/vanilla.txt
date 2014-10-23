@@ -21,6 +21,8 @@
 ../BlockStyle/assets/minecraft/textures/blocks/grass_top.png
 ../BlockStyle/assets/minecraft/textures/blocks/mycelium_side.png
 ../BlockStyle/assets/minecraft/textures/blocks/mycelium_top.png
+../BlockStyle/assets/minecraft/textures/blocks/redstone_torch_off.png
+../BlockStyle/assets/minecraft/textures/blocks/redstone_torch_on.png
 ../BlockStyle/assets/minecraft/textures/blocks/sapling_acacia.png
 ../BlockStyle/assets/minecraft/textures/blocks/sapling_birch.png
 ../BlockStyle/assets/minecraft/textures/blocks/sapling_jungle.png
@@ -31,6 +33,12 @@
 ../BlockStyle/assets/minecraft/textures/blocks/stonebrick_carved.png
 ../BlockStyle/assets/minecraft/textures/blocks/stonebrick_cracked.png
 ../BlockStyle/assets/minecraft/textures/blocks/stonebrick_mossy.png
+../BlockStyle/assets/minecraft/textures/blocks/tnt_bottom.png
+../BlockStyle/assets/minecraft/textures/blocks/tnt_side.png
+../BlockStyle/assets/minecraft/textures/blocks/tnt_top.png
+../BlockStyle/assets/minecraft/textures/blocks/torch_on.png
+../BlockStyle/assets/minecraft/textures/blocks/trip_wire.png
+../BlockStyle/assets/minecraft/textures/blocks/trip_wire_source.png
 ../BlockStyle/assets/minecraft/textures/blocks/waterlily.png
 ../BlockStyle/assets/minecraft/textures/blocks/web.png
 ../BlockStyle/assets/minecraft/textures/blocks/wheat_stage_0.png
@@ -57,3 +65,4 @@
 ../BlockStyle/assets/minecraft/textures/blocks/wool_colored_silver.png
 ../BlockStyle/assets/minecraft/textures/blocks/wool_colored_white.png
 ../BlockStyle/assets/minecraft/textures/blocks/wool_colored_yellow.png
+../BlockStyle/assets/minceraft/textures/blocks/vine.png
