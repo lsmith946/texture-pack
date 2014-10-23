@@ -1,4 +1,4 @@
-#! usr/bin/env python27
+#!/usr/bin/python
 
 import os
 import sys
