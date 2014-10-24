@@ -1,2 +1,5 @@
 ../BlockStyle/assets/enderio/textures/blocks/blankMachinePanel.png
 ../BlockStyle/assets/enderio/textures/blocks/machineTop.png
+../BlockStyle/assets/enderio/textures/blocks/machineBack.png
+../BlockStyle/assets/enderio/textures/blocks/machineSide.png
+../BlockStyle/assets/enderio/textures/blocks/machineTemplate.png
