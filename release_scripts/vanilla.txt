@@ -65,4 +65,4 @@
 ../BlockStyle/assets/minecraft/textures/blocks/wool_colored_silver.png
 ../BlockStyle/assets/minecraft/textures/blocks/wool_colored_white.png
 ../BlockStyle/assets/minecraft/textures/blocks/wool_colored_yellow.png
-../BlockStyle/assets/minceraft/textures/blocks/vine.png
+../BlockStyle/assets/minecraft/textures/blocks/vine.png
