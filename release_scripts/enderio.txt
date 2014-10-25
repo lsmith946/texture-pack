@@ -3,3 +3,7 @@
 ../BlockStyle/assets/enderio/textures/blocks/machineBack.png
 ../BlockStyle/assets/enderio/textures/blocks/machineSide.png
 ../BlockStyle/assets/enderio/textures/blocks/machineTemplate.png
+../BlockStyle/assets/enderio/textures/blocks/alloySmelterFront.png
+../BlockStyle/assets/enderio/textures/blocks/crusherFront.png
+../BlockStyle/assets/enderio/textures/blocks/painterFrontOff.png
+../BlockStyle/assets/enderio/textures/blocks/stirlingGenFrontOff.png
