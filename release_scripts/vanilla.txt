@@ -38,6 +38,14 @@
 ../BlockStyle/assets/minecraft/textures/blocks/lapis_ore.png
 ../BlockStyle/assets/minecraft/textures/blocks/mycelium_side.png
 ../BlockStyle/assets/minecraft/textures/blocks/mycelium_top.png
+../BlockStyle/assets/minecraft/textures/blocks/rail_activator.png
+../BlockStyle/assets/minecraft/textures/blocks/rail_activator_powered.png
+../BlockStyle/assets/minecraft/textures/blocks/rail_detector.png
+../BlockStyle/assets/minecraft/textures/blocks/rail_detector_powered.png
+../BlockStyle/assets/minecraft/textures/blocks/rail_golden.png
+../BlockStyle/assets/minecraft/textures/blocks/rail_golden_powered.png
+../BlockStyle/assets/minecraft/textures/blocks/rail_normal.png
+../BlockStyle/assets/minecraft/textures/blocks/rail_normal_turned.png
 ../BlockStyle/assets/minecraft/textures/blocks/redstone_ore.png
 ../BlockStyle/assets/minecraft/textures/blocks/redstone_torch_off.png
 ../BlockStyle/assets/minecraft/textures/blocks/redstone_torch_on.png
