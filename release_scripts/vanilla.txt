@@ -73,6 +73,7 @@
 ../BlockStyle/assets/minecraft/textures/blocks/redstone_ore.png
 ../BlockStyle/assets/minecraft/textures/blocks/redstone_torch_off.png
 ../BlockStyle/assets/minecraft/textures/blocks/redstone_torch_on.png
+../BlockStyle/assets/minecraft/textures/blocks/sand.png
 ../BlockStyle/assets/minecraft/textures/blocks/sapling_acacia.png
 ../BlockStyle/assets/minecraft/textures/blocks/sapling_birch.png
 ../BlockStyle/assets/minecraft/textures/blocks/sapling_jungle.png
