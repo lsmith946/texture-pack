@@ -7,3 +7,5 @@
 ../BlockStyle/assets/enderio/textures/blocks/crusherFront.png
 ../BlockStyle/assets/enderio/textures/blocks/painterFrontOff.png
 ../BlockStyle/assets/enderio/textures/blocks/stirlingGenFrontOff.png
+../BlockStyle/assets/enderio/textures/blocks/powerMonitor.png
+../BlockStyle/assets/enderio/textures/blocks/poweredSpawnerFront.png
