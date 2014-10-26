@@ -33,6 +33,7 @@
 ../BlockStyle/assets/minecraft/textures/blocks/grass_side_overlay.png
 ../BlockStyle/assets/minecraft/textures/blocks/grass_side_snowed.png
 ../BlockStyle/assets/minecraft/textures/blocks/grass_top.png
+../BlockStyle/assets/minecraft/textures/blocks/gravel.png
 ../BlockStyle/assets/minecraft/textures/blocks/iron_bars.png
 ../BlockStyle/assets/minecraft/textures/blocks/iron_ore.png
 ../BlockStyle/assets/minecraft/textures/blocks/lapis_ore.png
