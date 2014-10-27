@@ -1,11 +1,11 @@
+../BlockStyle/assets/enderio/textures/blocks/alloySmelterFront.png
 ../BlockStyle/assets/enderio/textures/blocks/blankMachinePanel.png
-../BlockStyle/assets/enderio/textures/blocks/machineTop.png
+../BlockStyle/assets/enderio/textures/blocks/crusherFront.png
 ../BlockStyle/assets/enderio/textures/blocks/machineBack.png
 ../BlockStyle/assets/enderio/textures/blocks/machineSide.png
 ../BlockStyle/assets/enderio/textures/blocks/machineTemplate.png
-../BlockStyle/assets/enderio/textures/blocks/alloySmelterFront.png
-../BlockStyle/assets/enderio/textures/blocks/crusherFront.png
+../BlockStyle/assets/enderio/textures/blocks/machineTop.png
 ../BlockStyle/assets/enderio/textures/blocks/painterFrontOff.png
-../BlockStyle/assets/enderio/textures/blocks/stirlingGenFrontOff.png
-../BlockStyle/assets/enderio/textures/blocks/powerMonitor.png
 ../BlockStyle/assets/enderio/textures/blocks/poweredSpawnerFront.png
+../BlockStyle/assets/enderio/textures/blocks/powerMonitor.png
+../BlockStyle/assets/enderio/textures/blocks/stirlingGenFrontOff.png
