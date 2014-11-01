@@ -158,6 +158,7 @@
 ../BlockStyle/assets/minecraft/textures/blocks/redstone_ore.png
 ../BlockStyle/assets/minecraft/textures/blocks/redstone_torch_off.png
 ../BlockStyle/assets/minecraft/textures/blocks/redstone_torch_on.png
+../BlockStyle/assets/minecraft/textures/blocks/reeds.png
 ../BlockStyle/assets/minecraft/textures/blocks/repeater_off.png
 ../BlockStyle/assets/minecraft/textures/blocks/repeater_on.png
 ../BlockStyle/assets/minecraft/textures/blocks/sand.png
