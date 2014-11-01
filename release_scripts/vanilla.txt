@@ -9,6 +9,7 @@
 ../BlockStyle/assets/minecraft/textures/blocks/bed_head_end.png
 ../BlockStyle/assets/minecraft/textures/blocks/bed_head_side.png
 ../BlockStyle/assets/minecraft/textures/blocks/bed_head_top.png
+../BlockStyle/assets/minecraft/textures/blocks/bedrock.png
 ../BlockStyle/assets/minecraft/textures/blocks/brick.png
 ../BlockStyle/assets/minecraft/textures/blocks/coal_ore.png
 ../BlockStyle/assets/minecraft/textures/blocks/cobblestone.png
