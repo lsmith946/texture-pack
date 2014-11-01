@@ -39,6 +39,8 @@
 ../BlockStyle/assets/minecraft/textures/blocks/double_plant_syringa_bottom.png
 ../BlockStyle/assets/minecraft/textures/blocks/double_plant_syringa_top.png
 ../BlockStyle/assets/minecraft/textures/blocks/emerald_ore.png
+../BlockStyle/assets/minecraft/textures/blocks/farmland_dry.png
+../BlockStyle/assets/minecraft/textures/blocks/farmland_wet.png
 ../BlockStyle/assets/minecraft/textures/blocks/fern.png
 ../BlockStyle/assets/minecraft/textures/blocks/flower_allium.png
 ../BlockStyle/assets/minecraft/textures/blocks/flower_blue_orchid.png
