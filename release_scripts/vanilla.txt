@@ -175,6 +175,8 @@
 ../BlockStyle/assets/minecraft/textures/blocks/stonebrick_carved.png
 ../BlockStyle/assets/minecraft/textures/blocks/stonebrick_cracked.png
 ../BlockStyle/assets/minecraft/textures/blocks/stonebrick_mossy.png
+../BlockStyle/assets/minecraft/textures/blocks/stone_slab_side.png
+../BlockStyle/assets/minecraft/textures/blocks/stone_slab_top.png
 ../BlockStyle/assets/minecraft/textures/blocks/tallgrass.png
 ../BlockStyle/assets/minecraft/textures/blocks/tnt_bottom.png
 ../BlockStyle/assets/minecraft/textures/blocks/tnt_side.png
