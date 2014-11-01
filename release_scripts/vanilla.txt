@@ -149,6 +149,7 @@
 ../BlockStyle/assets/minecraft/textures/blocks/rail_golden_powered.png
 ../BlockStyle/assets/minecraft/textures/blocks/rail_normal.png
 ../BlockStyle/assets/minecraft/textures/blocks/rail_normal_turned.png
+../BlockStyle/assets/minecraft/textures/blocks/red_sand.png
 ../BlockStyle/assets/minecraft/textures/blocks/redstone_dust_cross.png
 ../BlockStyle/assets/minecraft/textures/blocks/redstone_dust_cross_overlay.png
 ../BlockStyle/assets/minecraft/textures/blocks/redstone_dust_line.png
