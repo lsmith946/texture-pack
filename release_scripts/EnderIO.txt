@@ -21,3 +21,10 @@
 ../BlockStyle/assets/enderio/textures/blocks/powerMonitor.png
 ../BlockStyle/assets/enderio/textures/blocks/sliceAndSpliceFront.png
 ../BlockStyle/assets/enderio/textures/blocks/stirlingGenFrontOff.png
+../BlockStyle/assets/enderio/textures/blocks/blockAttractorSide.png
+../BlockStyle/assets/enderio/textures/blocks/blockVacuumChest.png
+../BlockStyle/assets/enderio/textures/blocks/combustionGenFront.png
+../BlockStyle/assets/enderio/textures/blocks/stirlingGenFrontOn.png
+../BlockStyle/assets/enderio/textures/blocks/vatFront.png
+../BlockStyle/assets/enderio/textures/blocks/vatFrontSingle.png
+../BlockStyle/assets/enderio/textures/blocks/vatTop.png
