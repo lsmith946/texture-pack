@@ -71,6 +71,12 @@
 ../BlockStyle/assets/minecraft/textures/blocks/planks_jungle.png
 ../BlockStyle/assets/minecraft/textures/blocks/planks_oak.png
 ../BlockStyle/assets/minecraft/textures/blocks/planks_spruce.png
+../BlockStyle/assets/minecraft/textures/blocks/pumpkin_face_off.png
+../BlockStyle/assets/minecraft/textures/blocks/pumpkin_face_on.png
+../BlockStyle/assets/minecraft/textures/blocks/pumpkin_side.png
+../BlockStyle/assets/minecraft/textures/blocks/pumpkin_stem_connected.png
+../BlockStyle/assets/minecraft/textures/blocks/pumpkin_stem_disconnected.png
+../BlockStyle/assets/minecraft/textures/blocks/pumpkin_top.png
 ../BlockStyle/assets/minecraft/textures/blocks/rail_activator.png
 ../BlockStyle/assets/minecraft/textures/blocks/rail_activator_powered.png
 ../BlockStyle/assets/minecraft/textures/blocks/rail_detector.png
