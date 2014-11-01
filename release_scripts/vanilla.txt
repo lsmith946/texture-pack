@@ -101,6 +101,10 @@
 ../BlockStyle/assets/minecraft/textures/blocks/iron_bars.png
 ../BlockStyle/assets/minecraft/textures/blocks/iron_ore.png
 ../BlockStyle/assets/minecraft/textures/blocks/lapis_ore.png
+../BlockStyle/assets/minecraft/textures/blocks/lava_flow.png
+../BlockStyle/assets/minecraft/textures/blocks/lava_flow.png.mcmeta
+../BlockStyle/assets/minecraft/textures/blocks/lava_still.png
+../BlockStyle/assets/minecraft/textures/blocks/lava_still.png.mcmeta
 ../BlockStyle/assets/minecraft/textures/blocks/leaves_acacia.png
 ../BlockStyle/assets/minecraft/textures/blocks/leaves_acacia_opaque.png
 ../BlockStyle/assets/minecraft/textures/blocks/leaves_big_oak.png
