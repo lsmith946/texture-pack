@@ -131,6 +131,12 @@
 ../BlockStyle/assets/minecraft/textures/blocks/log_spruce.png
 ../BlockStyle/assets/minecraft/textures/blocks/log_spruce_top.png
 ../BlockStyle/assets/minecraft/textures/blocks/mob_spawner.png
+../BlockStyle/assets/minecraft/textures/blocks/mushroom_block_inside.png
+../BlockStyle/assets/minecraft/textures/blocks/mushroom_block_skin_brown.png
+../BlockStyle/assets/minecraft/textures/blocks/mushroom_block_skin_red.png
+../BlockStyle/assets/minecraft/textures/blocks/mushroom_block_skin_stem.png
+../BlockStyle/assets/minecraft/textures/blocks/mushroom_brown.png
+../BlockStyle/assets/minecraft/textures/blocks/mushroom_red.png
 ../BlockStyle/assets/minecraft/textures/blocks/mycelium_side.png
 ../BlockStyle/assets/minecraft/textures/blocks/mycelium_top.png
 ../BlockStyle/assets/minecraft/textures/blocks/noteblock.png
