@@ -135,6 +135,10 @@
 ../BlockStyle/assets/minecraft/textures/blocks/planks_jungle.png
 ../BlockStyle/assets/minecraft/textures/blocks/planks_oak.png
 ../BlockStyle/assets/minecraft/textures/blocks/planks_spruce.png
+../BlockStyle/assets/minecraft/textures/blocks/potatoes_stage_0.png
+../BlockStyle/assets/minecraft/textures/blocks/potatoes_stage_1.png
+../BlockStyle/assets/minecraft/textures/blocks/potatoes_stage_2.png
+../BlockStyle/assets/minecraft/textures/blocks/potatoes_stage_3.png
 ../BlockStyle/assets/minecraft/textures/blocks/pumpkin_face_off.png
 ../BlockStyle/assets/minecraft/textures/blocks/pumpkin_face_on.png
 ../BlockStyle/assets/minecraft/textures/blocks/pumpkin_side.png
