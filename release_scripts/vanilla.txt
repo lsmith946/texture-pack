@@ -133,6 +133,11 @@
 ../BlockStyle/assets/minecraft/textures/blocks/mycelium_side.png
 ../BlockStyle/assets/minecraft/textures/blocks/mycelium_top.png
 ../BlockStyle/assets/minecraft/textures/blocks/obsidian.png
+../BlockStyle/assets/minecraft/textures/blocks/piston_bottom.png
+../BlockStyle/assets/minecraft/textures/blocks/piston_inner.png
+../BlockStyle/assets/minecraft/textures/blocks/piston_side.png
+../BlockStyle/assets/minecraft/textures/blocks/piston_top_normal.png
+../BlockStyle/assets/minecraft/textures/blocks/piston_top_sticky.png
 ../BlockStyle/assets/minecraft/textures/blocks/planks_acacia.png
 ../BlockStyle/assets/minecraft/textures/blocks/planks_big_oak.png
 ../BlockStyle/assets/minecraft/textures/blocks/planks_birch.png
