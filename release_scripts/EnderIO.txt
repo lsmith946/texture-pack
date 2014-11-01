@@ -28,3 +28,11 @@
 ../BlockStyle/assets/enderio/textures/blocks/vatFront.png
 ../BlockStyle/assets/enderio/textures/blocks/vatFrontSingle.png
 ../BlockStyle/assets/enderio/textures/blocks/vatTop.png
+../BlockStyle/assets/enderio/textures/blocks/crusherFrontOn.png
+../BlockStyle/assets/enderio/textures/blocks/painterFrontOn.png
+../BlockStyle/assets/enderio/textures/blocks/painterFrontOn.png.mcmeta
+../BlockStyle/assets/enderio/textures/blocks/stirlingGenFrontOn.png
+../BlockStyle/assets/enderio/textures/blocks/stirlingGenFrontOn.png.mcmeta
+../BlockStyle/assets/enderio/textures/blocks/vatFrontOn.png
+../BlockStyle/assets/enderio/textures/blocks/vatFrontOnSingle.png
+
