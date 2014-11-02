@@ -117,6 +117,9 @@
 ../BlockStyle/assets/minecraft/textures/blocks/hardened_clay_stained_silver.png
 ../BlockStyle/assets/minecraft/textures/blocks/hardened_clay_stained_white.png
 ../BlockStyle/assets/minecraft/textures/blocks/hardened_clay_stained_yellow.png
+../BlockStyle/assets/minecraft/textures/blocks/hopper_inside.png
+../BlockStyle/assets/minecraft/textures/blocks/hopper_outside.png
+../BlockStyle/assets/minecraft/textures/blocks/hopper_top.png
 ../BlockStyle/assets/minecraft/textures/blocks/ice_packed.png
 ../BlockStyle/assets/minecraft/textures/blocks/ice.png
 ../BlockStyle/assets/minecraft/textures/blocks/iron_bars.png
