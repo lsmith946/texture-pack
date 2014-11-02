@@ -126,6 +126,7 @@
 ../BlockStyle/assets/minecraft/textures/blocks/ice.png
 ../BlockStyle/assets/minecraft/textures/blocks/iron_bars.png
 ../BlockStyle/assets/minecraft/textures/blocks/iron_ore.png
+../BlockStyle/assets/minecraft/textures/blocks/itemframe_background.png
 ../BlockStyle/assets/minecraft/textures/blocks/jukebox_side.png
 ../BlockStyle/assets/minecraft/textures/blocks/jukebox_top.png
 ../BlockStyle/assets/minecraft/textures/blocks/ladder.png
