@@ -44,6 +44,10 @@
 ../BlockStyle/assets/minecraft/textures/blocks/farmland_dry.png
 ../BlockStyle/assets/minecraft/textures/blocks/farmland_wet.png
 ../BlockStyle/assets/minecraft/textures/blocks/fern.png
+../BlockStyle/assets/minecraft/textures/blocks/fire_layer_0.png
+../BlockStyle/assets/minecraft/textures/blocks/fire_layer_0.png.mcmeta
+../BlockStyle/assets/minecraft/textures/blocks/fire_layer_1.png
+../BlockStyle/assets/minecraft/textures/blocks/fire_layer_1.png.mcmeta
 ../BlockStyle/assets/minecraft/textures/blocks/flower_allium.png
 ../BlockStyle/assets/minecraft/textures/blocks/flower_blue_orchid.png
 ../BlockStyle/assets/minecraft/textures/blocks/flower_dandelion.png
