@@ -13,6 +13,11 @@ parser.add_argument('-version', dest='version', help='The version number of the 
 args=parser.parse_args()
 
 include_flist = args.subset + ".txt"
+
+if not os.path.isdir("../releases/"):
+    print "Cannot find releases folder, creating"
+    os.mkdir("../releases")
+
 zip_name = "../releases/BlockStyle_v" + args.version + "_" + args.subset + ".zip"
 if os.path.isfile(include_flist):
    with open(include_flist) as to_include:
@@ -30,3 +35,6 @@ for f in files: # add all files to zip
       sys.exit("No file in path " + f)
 zfile.write("../BlockStyle/pack.mcmeta", "pack.mcmeta") # add pack.mcmeta
 zfile.close()  # close zip
+
+print "Release has been created, it can be found at:"
+print zip_name
