@@ -190,6 +190,13 @@
 ../BlockStyle/assets/minecraft/textures/blocks/pumpkin_stem_connected.png
 ../BlockStyle/assets/minecraft/textures/blocks/pumpkin_stem_disconnected.png
 ../BlockStyle/assets/minecraft/textures/blocks/pumpkin_top.png
+../BlockStyle/assets/minecraft/textures/blocks/quartz_block_bottom.png
+../BlockStyle/assets/minecraft/textures/blocks/quartz_block_chiseled.png
+../BlockStyle/assets/minecraft/textures/blocks/quartz_block_chiseled_top.png
+../BlockStyle/assets/minecraft/textures/blocks/quartz_block_lines.png
+../BlockStyle/assets/minecraft/textures/blocks/quartz_block_lines_top.png
+../BlockStyle/assets/minecraft/textures/blocks/quartz_block_side.png
+../BlockStyle/assets/minecraft/textures/blocks/quartz_block_top.png
 ../BlockStyle/assets/minecraft/textures/blocks/rail_activator.png
 ../BlockStyle/assets/minecraft/textures/blocks/rail_activator_powered.png
 ../BlockStyle/assets/minecraft/textures/blocks/rail_detector.png
