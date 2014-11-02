@@ -119,6 +119,7 @@
 ../BlockStyle/assets/minecraft/textures/blocks/hardened_clay_stained_yellow.png
 ../BlockStyle/assets/minecraft/textures/blocks/iron_bars.png
 ../BlockStyle/assets/minecraft/textures/blocks/iron_ore.png
+../BlockStyle/assets/minecraft/textures/blocks/ladder.png
 ../BlockStyle/assets/minecraft/textures/blocks/lapis_ore.png
 ../BlockStyle/assets/minecraft/textures/blocks/lava_flow.png
 ../BlockStyle/assets/minecraft/textures/blocks/lava_flow.png.mcmeta
