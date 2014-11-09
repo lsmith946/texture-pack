@@ -183,6 +183,7 @@
 ../BlockStyle/assets/minecraft/textures/blocks/mushroom_red.png
 ../BlockStyle/assets/minecraft/textures/blocks/mycelium_side.png
 ../BlockStyle/assets/minecraft/textures/blocks/mycelium_top.png
+../BlockStyle/assets/minecraft/textures/blocks/netherrack.png
 ../BlockStyle/assets/minecraft/textures/blocks/noteblock.png
 ../BlockStyle/assets/minecraft/textures/blocks/obsidian.png
 ../BlockStyle/assets/minecraft/textures/blocks/piston_bottom.png
