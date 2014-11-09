@@ -255,6 +255,7 @@
 ../BlockStyle/assets/minecraft/textures/blocks/sapling_roofed_oak.png
 ../BlockStyle/assets/minecraft/textures/blocks/sapling_spruce.png
 ../BlockStyle/assets/minecraft/textures/blocks/snow.png
+../BlockStyle/assets/minecraft/textures/blocks/soul_sand.png
 ../BlockStyle/assets/minecraft/textures/blocks/sponge.png
 ../BlockStyle/assets/minecraft/textures/blocks/stone.png
 ../BlockStyle/assets/minecraft/textures/blocks/stonebrick.png
