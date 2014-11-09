@@ -104,6 +104,7 @@
 ../BlockStyle/assets/minecraft/textures/blocks/glass_silver.png
 ../BlockStyle/assets/minecraft/textures/blocks/glass_white.png
 ../BlockStyle/assets/minecraft/textures/blocks/glass_yellow.png
+../BlockStyle/assets/minecraft/textures/blocks/glowstone.png
 ../BlockStyle/assets/minecraft/textures/blocks/gold_ore.png
 ../BlockStyle/assets/minecraft/textures/blocks/grass_side.png
 ../BlockStyle/assets/minecraft/textures/blocks/grass_side_overlay.png
