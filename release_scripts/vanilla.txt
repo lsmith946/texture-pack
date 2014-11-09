@@ -18,6 +18,9 @@
 ../BlockStyle/assets/minecraft/textures/blocks/coal_ore.png
 ../BlockStyle/assets/minecraft/textures/blocks/cobblestone.png
 ../BlockStyle/assets/minecraft/textures/blocks/cobblestone_mossy.png
+../BlockStyle/assets/minecraft/textures/blocks/cocoa_stage_0.png
+../BlockStyle/assets/minecraft/textures/blocks/cocoa_stage_1.png
+../BlockStyle/assets/minecraft/textures/blocks/cocoa_stage_2.png
 ../BlockStyle/assets/minecraft/textures/blocks/crafting_table_front.png
 ../BlockStyle/assets/minecraft/textures/blocks/crafting_table_side.png
 ../BlockStyle/assets/minecraft/textures/blocks/crafting_table_top.png
