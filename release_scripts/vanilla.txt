@@ -18,6 +18,9 @@
 ../BlockStyle/assets/minecraft/textures/blocks/coal_ore.png
 ../BlockStyle/assets/minecraft/textures/blocks/cobblestone.png
 ../BlockStyle/assets/minecraft/textures/blocks/cobblestone_mossy.png
+../BlockStyle/assets/minecraft/textures/blocks/crafting_table_front.png
+../BlockStyle/assets/minecraft/textures/blocks/crafting_table_side.png
+../BlockStyle/assets/minecraft/textures/blocks/crafting_table_top.png
 ../BlockStyle/assets/minecraft/textures/blocks/deadbush.png
 ../BlockStyle/assets/minecraft/textures/blocks/diamond_ore.png
 ../BlockStyle/assets/minecraft/textures/blocks/dirt.png
