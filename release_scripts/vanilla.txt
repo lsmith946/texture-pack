@@ -189,6 +189,9 @@
 ../BlockStyle/assets/minecraft/textures/blocks/mycelium_top.png
 ../BlockStyle/assets/minecraft/textures/blocks/nether_brick.png
 ../BlockStyle/assets/minecraft/textures/blocks/netherrack.png
+../BlockStyle/assets/minecraft/textures/blocks/nether_wart_stage_0.png
+../BlockStyle/assets/minecraft/textures/blocks/nether_wart_stage_1.png
+../BlockStyle/assets/minecraft/textures/blocks/nether_wart_stage_2.png
 ../BlockStyle/assets/minecraft/textures/blocks/noteblock.png
 ../BlockStyle/assets/minecraft/textures/blocks/obsidian.png
 ../BlockStyle/assets/minecraft/textures/blocks/piston_bottom.png
