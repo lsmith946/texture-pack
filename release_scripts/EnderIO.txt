@@ -6,6 +6,7 @@
 ../BlockStyle/assets/enderio/textures/blocks/anvil_2.png
 ../BlockStyle/assets/enderio/textures/blocks/anvil_base.png
 ../BlockStyle/assets/enderio/textures/blocks/blankMachinePanel.png
+../BlockStyle/assets/enderio/textures/blocks/blockAttractorSideOn.png
 ../BlockStyle/assets/enderio/textures/blocks/blockAttractorSide.png
 ../BlockStyle/assets/enderio/textures/blocks/blockDarkIronBars.png
 ../BlockStyle/assets/enderio/textures/blocks/blockEnderRailEastWest.png
@@ -20,6 +21,7 @@
 ../BlockStyle/assets/enderio/textures/blocks/blockTank.png
 ../BlockStyle/assets/enderio/textures/blocks/blockTankTopAdvanced.png
 ../BlockStyle/assets/enderio/textures/blocks/blockVacuumChest.png
+../BlockStyle/assets/enderio/textures/blocks/combustionGenFrontOn.png
 ../BlockStyle/assets/enderio/textures/blocks/combustionGenFront.png
 ../BlockStyle/assets/enderio/textures/blocks/crafter.png
 ../BlockStyle/assets/enderio/textures/blocks/crafterSide.png
