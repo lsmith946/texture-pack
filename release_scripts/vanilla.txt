@@ -63,6 +63,10 @@
 ../BlockStyle/assets/minecraft/textures/blocks/enchanting_table_bottom.png
 ../BlockStyle/assets/minecraft/textures/blocks/enchanting_table_side.png
 ../BlockStyle/assets/minecraft/textures/blocks/enchanting_table_top.png
+../BlockStyle/assets/minecraft/textures/blocks/end_stone.png
+../BlockStyle/assets/minecraft/textures/blocks/endframe_eye.png
+../BlockStyle/assets/minecraft/textures/blocks/endframe_side.png
+../BlockStyle/assets/minecraft/textures/blocks/endframe_top.png
 ../BlockStyle/assets/minecraft/textures/blocks/farmland_dry.png
 ../BlockStyle/assets/minecraft/textures/blocks/farmland_wet.png
 ../BlockStyle/assets/minecraft/textures/blocks/fern.png
