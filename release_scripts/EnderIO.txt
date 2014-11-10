@@ -1,6 +1,10 @@
 ../BlockStyle/assets/enderio/textures/blocks/alloySmelterFrontOn.png
 ../BlockStyle/assets/enderio/textures/blocks/alloySmelterFrontOn.png.mcmeta
 ../BlockStyle/assets/enderio/textures/blocks/alloySmelterFront.png
+../BlockStyle/assets/enderio/textures/blocks/anvil_0.png
+../BlockStyle/assets/enderio/textures/blocks/anvil_1.png
+../BlockStyle/assets/enderio/textures/blocks/anvil_2.png
+../BlockStyle/assets/enderio/textures/blocks/anvil_base.png
 ../BlockStyle/assets/enderio/textures/blocks/blankMachinePanel.png
 ../BlockStyle/assets/enderio/textures/blocks/blockAttractorSide.png
 ../BlockStyle/assets/enderio/textures/blocks/blockDarkIronBars.png
@@ -22,6 +26,13 @@
 ../BlockStyle/assets/enderio/textures/blocks/crafterTop.png
 ../BlockStyle/assets/enderio/textures/blocks/crusherFrontOn.png
 ../BlockStyle/assets/enderio/textures/blocks/crusherFront.png
+../BlockStyle/assets/enderio/textures/blocks/itemConduitInOut_In.png
+../BlockStyle/assets/enderio/textures/blocks/itemConduitInOut_Out.png
+../BlockStyle/assets/enderio/textures/blocks/itemConduitInOut.png
+../BlockStyle/assets/enderio/textures/blocks/itemConduitInput.png
+../BlockStyle/assets/enderio/textures/blocks/itemConduitIoConnector.png
+../BlockStyle/assets/enderio/textures/blocks/itemConduitOutput.png
+../BlockStyle/assets/enderio/textures/blocks/itemConduit.png
 ../BlockStyle/assets/enderio/textures/blocks/machineBack.png
 ../BlockStyle/assets/enderio/textures/blocks/machineSide.png
 ../BlockStyle/assets/enderio/textures/blocks/machineTemplate.png
