@@ -24,6 +24,8 @@
 ../BlockStyle/assets/minecraft/textures/blocks/crafting_table_front.png
 ../BlockStyle/assets/minecraft/textures/blocks/crafting_table_side.png
 ../BlockStyle/assets/minecraft/textures/blocks/crafting_table_top.png
+../BlockStyle/assets/minecraft/textures/blocks/daylight_detector_side.png
+../BlockStyle/assets/minecraft/textures/blocks/daylight_detector_top.png
 ../BlockStyle/assets/minecraft/textures/blocks/deadbush.png
 ../BlockStyle/assets/minecraft/textures/blocks/destroy_stage_0.png
 ../BlockStyle/assets/minecraft/textures/blocks/destroy_stage_1.png
