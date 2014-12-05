@@ -14,6 +14,10 @@
 ../BlockStyle/assets/minecraft/textures/blocks/cactus_bottom.png
 ../BlockStyle/assets/minecraft/textures/blocks/cactus_side.png
 ../BlockStyle/assets/minecraft/textures/blocks/cactus_top.png
+../BlockStyle/assets/minecraft/textures/blocks/carrots_stage_0.png
+../BlockStyle/assets/minecraft/textures/blocks/carrots_stage_1.png
+../BlockStyle/assets/minecraft/textures/blocks/carrots_stage_2.png
+../BlockStyle/assets/minecraft/textures/blocks/carrots_stage_3.png
 ../BlockStyle/assets/minecraft/textures/blocks/clay.png
 ../BlockStyle/assets/minecraft/textures/blocks/coal_ore.png
 ../BlockStyle/assets/minecraft/textures/blocks/cobblestone.png
