@@ -59,6 +59,8 @@
 ../BlockStyle/assets/minecraft/textures/blocks/double_plant_sunflower_top.png
 ../BlockStyle/assets/minecraft/textures/blocks/double_plant_syringa_bottom.png
 ../BlockStyle/assets/minecraft/textures/blocks/double_plant_syringa_top.png
+../BlockStyle/assets/minecraft/textures/blocks/dropper_front_horizontal.png
+../BlockStyle/assets/minecraft/textures/blocks/dropper_front_vertical.png
 ../BlockStyle/assets/minecraft/textures/blocks/emerald_ore.png
 ../BlockStyle/assets/minecraft/textures/blocks/enchanting_table_bottom.png
 ../BlockStyle/assets/minecraft/textures/blocks/enchanting_table_side.png
