@@ -67,6 +67,7 @@
 ../BlockStyle/assets/enderio/textures/blocks/powerConduitOutput.png
 ../BlockStyle/assets/enderio/textures/blocks/powerConduit.png
 ../BlockStyle/assets/enderio/textures/blocks/powerConduitTransmission.png
+../BlockStyle/assets/enderio/textures/blocks/poweredSpawnerFrontActive.png
 ../BlockStyle/assets/enderio/textures/blocks/poweredSpawnerFront.png
 ../BlockStyle/assets/enderio/textures/blocks/powerMonitor.png
 ../BlockStyle/assets/enderio/textures/blocks/redstoneConduitCoreOff.png
