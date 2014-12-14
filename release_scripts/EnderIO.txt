@@ -71,6 +71,9 @@
 ../BlockStyle/assets/enderio/textures/blocks/redstoneConduitCoreOff.png
 ../BlockStyle/assets/enderio/textures/blocks/redstoneConduitCoreOn.png
 ../BlockStyle/assets/enderio/textures/blocks/redstoneConduit.png
+../BlockStyle/assets/enderio/textures/blocks/redstoneConduitTransmission.png
+../BlockStyle/assets/enderio/textures/blocks/redstoneInsulatedConduitCoreOff.png
+../BlockStyle/assets/enderio/textures/blocks/redstoneInsulatedConduitCoreOn.png
 ../BlockStyle/assets/enderio/textures/blocks/redstoneInsulatedConduit.png
 ../BlockStyle/assets/enderio/textures/blocks/sliceAndSpliceFrontOn.png
 ../BlockStyle/assets/enderio/textures/blocks/sliceAndSpliceFrontOn.png.mcmeta
