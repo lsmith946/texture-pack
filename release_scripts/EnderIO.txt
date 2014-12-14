@@ -51,6 +51,12 @@
 ../BlockStyle/assets/enderio/textures/blocks/powerConduitCore.png
 ../BlockStyle/assets/enderio/textures/blocks/powerConduitEnder.png
 ../BlockStyle/assets/enderio/textures/blocks/powerConduitEnhanced.png
+../BlockStyle/assets/enderio/textures/blocks/powerConduitInputEnder.png
+../BlockStyle/assets/enderio/textures/blocks/powerConduitInputEnhanced.png
+../BlockStyle/assets/enderio/textures/blocks/powerConduitInput.png
+../BlockStyle/assets/enderio/textures/blocks/powerConduitOutputEnder.png
+../BlockStyle/assets/enderio/textures/blocks/powerConduitOutputEnhanced.png
+../BlockStyle/assets/enderio/textures/blocks/powerConduitOutput.png
 ../BlockStyle/assets/enderio/textures/blocks/powerConduit.png
 ../BlockStyle/assets/enderio/textures/blocks/poweredSpawnerFront.png
 ../BlockStyle/assets/enderio/textures/blocks/powerMonitor.png
