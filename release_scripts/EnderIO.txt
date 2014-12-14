@@ -35,10 +35,13 @@
 ../BlockStyle/assets/enderio/textures/blocks/itemConduitIoConnector.png
 ../BlockStyle/assets/enderio/textures/blocks/itemConduitOutput.png
 ../BlockStyle/assets/enderio/textures/blocks/itemConduit.png
+../BlockStyle/assets/enderio/textures/blocks/liquidConduitAdvancedLocked.png
+../BlockStyle/assets/enderio/textures/blocks/liquidConduitAdvanced.png
 ../BlockStyle/assets/enderio/textures/blocks/machineBack.png
 ../BlockStyle/assets/enderio/textures/blocks/machineSide.png
 ../BlockStyle/assets/enderio/textures/blocks/machineTemplate.png
 ../BlockStyle/assets/enderio/textures/blocks/machineTop.png
+../BlockStyle/assets/enderio/textures/blocks/meConduit.png
 ../BlockStyle/assets/enderio/textures/blocks/need_to_process/
 ../BlockStyle/assets/enderio/textures/blocks/painterFrontOff.png
 ../BlockStyle/assets/enderio/textures/blocks/painterFrontOn.png
@@ -51,6 +54,7 @@
 ../BlockStyle/assets/enderio/textures/blocks/powerConduit.png
 ../BlockStyle/assets/enderio/textures/blocks/poweredSpawnerFront.png
 ../BlockStyle/assets/enderio/textures/blocks/powerMonitor.png
+../BlockStyle/assets/enderio/textures/blocks/redstoneInsulatedConduit.png
 ../BlockStyle/assets/enderio/textures/blocks/sliceAndSpliceFrontOn.png
 ../BlockStyle/assets/enderio/textures/blocks/sliceAndSpliceFrontOn.png.mcmeta
 ../BlockStyle/assets/enderio/textures/blocks/sliceAndSpliceFront.png
