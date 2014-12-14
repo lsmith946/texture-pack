@@ -77,6 +77,15 @@
 ../BlockStyle/assets/enderio/textures/blocks/redstoneInsulatedConduitCoreOff.png
 ../BlockStyle/assets/enderio/textures/blocks/redstoneInsulatedConduitCoreOn.png
 ../BlockStyle/assets/enderio/textures/blocks/redstoneInsulatedConduit.png
+../BlockStyle/assets/enderio/textures/blocks/reservoirMbBl.png
+../BlockStyle/assets/enderio/textures/blocks/reservoirMbB.png
+../BlockStyle/assets/enderio/textures/blocks/reservoirMbBr.png
+../BlockStyle/assets/enderio/textures/blocks/reservoirMbL.png
+../BlockStyle/assets/enderio/textures/blocks/reservoirMbR.png
+../BlockStyle/assets/enderio/textures/blocks/reservoirMbTl.png
+../BlockStyle/assets/enderio/textures/blocks/reservoirMbT.png
+../BlockStyle/assets/enderio/textures/blocks/reservoirMbTr.png
+../BlockStyle/assets/enderio/textures/blocks/reservoir.png
 ../BlockStyle/assets/enderio/textures/blocks/sliceAndSpliceFrontOn.png
 ../BlockStyle/assets/enderio/textures/blocks/sliceAndSpliceFrontOn.png.mcmeta
 ../BlockStyle/assets/enderio/textures/blocks/sliceAndSpliceFront.png
