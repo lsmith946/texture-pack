@@ -28,6 +28,8 @@
 ../BlockStyle/assets/enderio/textures/blocks/crafterTop.png
 ../BlockStyle/assets/enderio/textures/blocks/crusherFrontOn.png
 ../BlockStyle/assets/enderio/textures/blocks/crusherFront.png
+../BlockStyle/assets/enderio/textures/blocks/gasConduitInput.png
+../BlockStyle/assets/enderio/textures/blocks/gasConduitOutput.png
 ../BlockStyle/assets/enderio/textures/blocks/itemConduitInOut_In.png
 ../BlockStyle/assets/enderio/textures/blocks/itemConduitInOut_Out.png
 ../BlockStyle/assets/enderio/textures/blocks/itemConduitInOut.png
@@ -35,7 +37,9 @@
 ../BlockStyle/assets/enderio/textures/blocks/itemConduitIoConnector.png
 ../BlockStyle/assets/enderio/textures/blocks/itemConduitOutput.png
 ../BlockStyle/assets/enderio/textures/blocks/itemConduit.png
+../BlockStyle/assets/enderio/textures/blocks/liquidConduitAdvancedInput.png
 ../BlockStyle/assets/enderio/textures/blocks/liquidConduitAdvancedLocked.png
+../BlockStyle/assets/enderio/textures/blocks/liquidConduitAdvancedOutput.png
 ../BlockStyle/assets/enderio/textures/blocks/liquidConduitAdvanced.png
 ../BlockStyle/assets/enderio/textures/blocks/machineBack.png
 ../BlockStyle/assets/enderio/textures/blocks/machineSide.png
