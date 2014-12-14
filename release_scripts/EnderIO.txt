@@ -68,6 +68,9 @@
 ../BlockStyle/assets/enderio/textures/blocks/powerConduit.png
 ../BlockStyle/assets/enderio/textures/blocks/poweredSpawnerFront.png
 ../BlockStyle/assets/enderio/textures/blocks/powerMonitor.png
+../BlockStyle/assets/enderio/textures/blocks/redstoneConduitCoreOff.png
+../BlockStyle/assets/enderio/textures/blocks/redstoneConduitCoreOn.png
+../BlockStyle/assets/enderio/textures/blocks/redstoneConduit.png
 ../BlockStyle/assets/enderio/textures/blocks/redstoneInsulatedConduit.png
 ../BlockStyle/assets/enderio/textures/blocks/sliceAndSpliceFrontOn.png
 ../BlockStyle/assets/enderio/textures/blocks/sliceAndSpliceFrontOn.png.mcmeta
