@@ -30,6 +30,7 @@
 ../BlockStyle/assets/enderio/textures/blocks/crusherFront.png
 ../BlockStyle/assets/enderio/textures/blocks/gasConduitInput.png
 ../BlockStyle/assets/enderio/textures/blocks/gasConduitOutput.png
+../BlockStyle/assets/enderio/textures/blocks/gasConduit.png
 ../BlockStyle/assets/enderio/textures/blocks/itemConduitInOut_In.png
 ../BlockStyle/assets/enderio/textures/blocks/itemConduitInOut_Out.png
 ../BlockStyle/assets/enderio/textures/blocks/itemConduitInOut.png
