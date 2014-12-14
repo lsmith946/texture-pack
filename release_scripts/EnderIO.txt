@@ -21,6 +21,7 @@
 ../BlockStyle/assets/enderio/textures/blocks/blockTank.png
 ../BlockStyle/assets/enderio/textures/blocks/blockTankTopAdvanced.png
 ../BlockStyle/assets/enderio/textures/blocks/blockVacuumChest.png
+../BlockStyle/assets/enderio/textures/blocks/blockWirelessCharger.png
 ../BlockStyle/assets/enderio/textures/blocks/combustionGenFrontOn.png
 ../BlockStyle/assets/enderio/textures/blocks/combustionGenFront.png
 ../BlockStyle/assets/enderio/textures/blocks/crafter.png
