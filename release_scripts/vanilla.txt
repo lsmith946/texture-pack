@@ -11,6 +11,8 @@
 ../BlockStyle/assets/minecraft/textures/blocks/bed_head_top.png
 ../BlockStyle/assets/minecraft/textures/blocks/bedrock.png
 ../BlockStyle/assets/minecraft/textures/blocks/bookshelf.png
+../BlockStyle/assets/minecraft/textures/blocks/brewing_stand.png
+../BlockStyle/assets/minecraft/textures/blocks/brewing_stand_base.png
 ../BlockStyle/assets/minecraft/textures/blocks/brick.png
 ../BlockStyle/assets/minecraft/textures/blocks/cactus_bottom.png
 ../BlockStyle/assets/minecraft/textures/blocks/cactus_side.png
@@ -34,6 +36,7 @@
 ../BlockStyle/assets/minecraft/textures/blocks/cocoa_stage_0.png
 ../BlockStyle/assets/minecraft/textures/blocks/cocoa_stage_1.png
 ../BlockStyle/assets/minecraft/textures/blocks/cocoa_stage_2.png
+../BlockStyle/assets/minecraft/textures/blocks/command_block.png
 ../BlockStyle/assets/minecraft/textures/blocks/comparator_off.png
 ../BlockStyle/assets/minecraft/textures/blocks/comparator_on.png
 ../BlockStyle/assets/minecraft/textures/blocks/crafting_table_front.png
