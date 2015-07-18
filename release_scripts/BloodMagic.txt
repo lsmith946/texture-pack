@@ -1,2 +1,0 @@
-../BlockStyle/assets/alchemicalwizardry/altar.png
-../BlockStyle/assets/alchemicalwizardry/textures/models/altar.png
