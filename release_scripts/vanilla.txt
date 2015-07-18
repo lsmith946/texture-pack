@@ -84,6 +84,7 @@
 ../BlockStyle/assets/minecraft/textures/blocks/dragon_egg.png
 ../BlockStyle/assets/minecraft/textures/blocks/dropper_front_horizontal.png
 ../BlockStyle/assets/minecraft/textures/blocks/dropper_front_vertical.png
+../BlockStyle/assets/minecraft/textures/blocks/emerald_block.png
 ../BlockStyle/assets/minecraft/textures/blocks/emerald_ore.png
 ../BlockStyle/assets/minecraft/textures/blocks/enchanting_table_bottom.png
 ../BlockStyle/assets/minecraft/textures/blocks/enchanting_table_side.png
@@ -150,6 +151,7 @@
 ../BlockStyle/assets/minecraft/textures/blocks/glass_white.png
 ../BlockStyle/assets/minecraft/textures/blocks/glass_yellow.png
 ../BlockStyle/assets/minecraft/textures/blocks/glowstone.png
+../BlockStyle/assets/minecraft/textures/blocks/gold_block.png
 ../BlockStyle/assets/minecraft/textures/blocks/gold_ore.png
 ../BlockStyle/assets/minecraft/textures/blocks/grass_side.png
 ../BlockStyle/assets/minecraft/textures/blocks/grass_side_overlay.png
@@ -181,11 +183,13 @@
 ../BlockStyle/assets/minecraft/textures/blocks/ice_packed.png
 ../BlockStyle/assets/minecraft/textures/blocks/ice.png
 ../BlockStyle/assets/minecraft/textures/blocks/iron_bars.png
+../BlockStyle/assets/minecraft/textures/blocks/iron_block.png
 ../BlockStyle/assets/minecraft/textures/blocks/iron_ore.png
 ../BlockStyle/assets/minecraft/textures/blocks/itemframe_background.png
 ../BlockStyle/assets/minecraft/textures/blocks/jukebox_side.png
 ../BlockStyle/assets/minecraft/textures/blocks/jukebox_top.png
 ../BlockStyle/assets/minecraft/textures/blocks/ladder.png
+../BlockStyle/assets/minecraft/textures/blocks/lapis_block.png
 ../BlockStyle/assets/minecraft/textures/blocks/lapis_ore.png
 ../BlockStyle/assets/minecraft/textures/blocks/lava_flow.png
 ../BlockStyle/assets/minecraft/textures/blocks/lava_flow.png.mcmeta
@@ -276,6 +280,7 @@
 ../BlockStyle/assets/minecraft/textures/blocks/rail_normal.png
 ../BlockStyle/assets/minecraft/textures/blocks/rail_normal_turned.png
 ../BlockStyle/assets/minecraft/textures/blocks/red_sand.png
+../BlockStyle/assets/minecraft/textures/blocks/redstone_block.png
 ../BlockStyle/assets/minecraft/textures/blocks/redstone_dust_cross.png
 ../BlockStyle/assets/minecraft/textures/blocks/redstone_dust_cross_overlay.png
 ../BlockStyle/assets/minecraft/textures/blocks/redstone_dust_line.png
